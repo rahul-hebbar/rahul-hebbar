@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([website]) -->
 ## I'm a Student and Developer!
-- 🏫 Education: Finished B.Tech from INDIAN INSTITUTE OF INFORMATION TECHNOLOGY TRICHY
+- 🏫 Education: M.Tech in VLSI and Embedded Systems from DIAT Pune and B.Tech in ECE from IIIT TRICHY
 - ⚡ Fun fact: I love to play piano, listen to music ...
 - 🎮 Games: I play Fortnite and Valorant duing spare time
 - 💻 I’m looking to collaborate with open source projects
